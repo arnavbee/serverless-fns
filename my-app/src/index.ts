@@ -1,6 +1,4 @@
-export interface Env {
-	
-}
+
 
 
 export default {
