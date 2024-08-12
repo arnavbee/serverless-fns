@@ -13,7 +13,7 @@ export default {
 		} else {
 			return Response.json({
 				message: "you did not send a get request"
-			});;
+			});
 		}
 	},
 };
